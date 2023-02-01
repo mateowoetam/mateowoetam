@@ -6,11 +6,11 @@ GNU/Linux enthusiast<br>Minecraft mod enjoyer<br>Steam Deck user
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateowoetam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MateOrlaineta26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mateowoetam)  <a href="https://techhub.social/@mateowoetam"><img src="https://img.shields.io/badge/Mastodon-black?logo=mastodon"/></a>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mathew420w0&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew420w0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mateowoetam&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateowoetam&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mathew420w0&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mateowoetam&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## Skils and Qualifications
 - Lab techniques, with 100+ hours of experience in Mohawk College lab etiquette and safety precautions
@@ -27,7 +27,7 @@ GNU/Linux enthusiast<br>Minecraft mod enjoyer<br>Steam Deck user
 
 Biotechnology Co-Op College Diploma • 2021 – 2024
 
-	Biotechnology course at Mohawk College, expected to graduate in 2023
+	Biotechnology course at Mohawk College, expected to graduate in 2024
 
 IB Coursework • 2018 – 2019
 
@@ -41,38 +41,6 @@ IB Coursework • 2018 – 2019
 | Experience with Spectrophotometry | Health and Safety training     | German A2      |
 | Woodworking and Lathe experience  | Spanish Native                 | Esperantist    |
 | Data Lab book recording           | HPLC, GC, and 3L Bioreactor    | Coputer Repair |
-
-## Employment History
-
-Barista and Cashier • 2020-2021
-
-    Café Katsina, Mexico City, Mexico
-    Accurately using tools to create gourmet food
-    Ensuring customer satisfaction
-    Promoting a clean and safe environment for all
-    Training in handling fast-paced environments and stress
-
-Woodworking Assistant • 2016-2021
-
-    Mexico City, Mexico
-    Assisting a woodworking artist
-	Developing skills with machinery
-    Employing workplace safety practices
-
-## Volunteering Work
-
-House Building and Disaster & Human Relief • 2017
-
-    TECHO, Mexico City, Mexico
-    Responding to earthquake human relief efforts
-    Using construction tools, heavy equipment, and materials
-    Coordinating the team
-
-Natural Reserve Volunteer • 2019 • 1 Month
-
-    Projects Abroad, Wild at Tuli Camp, Gaborone, Botswana
-    Conducting animal censuses, requiring precision and calmness
-    Participating in maintenance, repairs, and cleaning, using a variety of tools
 
 Personal Interests
 
