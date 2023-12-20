@@ -9,8 +9,9 @@ GNU/Linux enthusiast<br>Minecraft mod enjoyer<br>Steam Deck user
 ![](https://github-readme-stats.vercel.app/api?username=mateowoetam&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateowoetam&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=mateowoetam&icon=2&color=12)](https://visitcount.itsvg.in)
+
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 ## Skils and Qualifications
 - Lab techniques, with 100+ hours of experience in Mohawk College lab etiquette and safety precautions
@@ -52,3 +53,6 @@ Personal Interests
 - Language learning
 - Touch typing
 - GNU/Linux
+
+- ---
+[![](https://visitcount.itsvg.in/api?id=mateowoetam&icon=2&color=12)](https://visitcount.itsvg.in)
