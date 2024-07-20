@@ -10,8 +10,12 @@ GNU/Linux enthusiast<br>Minecraft mod enjoyer<br>Steam Deck user<br>Exited about
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateowoetam&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Check out what I'm currently working on
-- [Mateowoetam/halmaklinuxsupport](https://github.com/mateowoetam/halmaklinuxsupport) - Mateo Orlaineta&#39;s fork of [mirrorsonthewall/halmaklinuxsupport](https://github.com/mirrorsonthewall/halmaklinuxsupport) Halmak layout for Linux that now includes an installer script, with future plants to support rpm-ostree.
-- [Mateowoetam/tuxelbookgoscript](https://github.com/mateowoetam/tuxelbookgoscript) - Mateo Orlaineta&#39;s recopilation of Pixelbook Linux Drivers - Install Audio Drivers, Keyboard udev Rules, Fixes, and Firmware Updates
+- [mateowoetam/halmaklinuxsupport](https://github.com/mateowoetam/halmaklinuxsupport) - Mateo Orlaineta&#39;s fork of [mirrorsonthewall/halmaklinuxsupport](https://github.com/mirrorsonthewall/halmaklinuxsupport) Halmak layout for Linux that now includes an installer script, with future plants to support rpm-ostree.
+- [mateowoetam/tuxelbookgoscript](https://github.com/mateowoetam/tuxelbookgoscript) - Mateo Orlaineta&#39;s recopilation of Pixelbook Linux Drivers - Install Audio Drivers, Keyboard udev Rules, Fixes, and Firmware Updates
+
+### Some of my personal config files
+- [mateowoetam/nix-configuration](https://github.com/mateowoetam/nix-configuration)
+- [mateowoetam/fastfetch-config](https://github.com/mateowoetam/fastfetch-config)
 
 ### Persional Interests
 - Genetics
