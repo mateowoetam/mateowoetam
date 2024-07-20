@@ -7,7 +7,7 @@
 GNU/Linux enthusiast<br>Minecraft mod enjoyer<br>Steam Deck user<br>Exited about RISC-V
 
 ### Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateowoetam&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateowoetam&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Check out what I'm currently working on
 - [Mateowoetam/halmaklinuxsupport](https://github.com/mateowoetam/halmaklinuxsupport) - Mateo Orlaineta&#39;s fork of [mirrorsonthewall/halmaklinuxsupport](https://github.com/mirrorsonthewall/halmaklinuxsupport) Halmak layout for Linux that now includes an installer script, with future plants to support rpm-ostree.
