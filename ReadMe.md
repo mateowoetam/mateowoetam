@@ -13,7 +13,7 @@ GNU/Linux enthusiast<br>NixOS user<br>Minecraft mod enjoyer<br>Steam Deck owner<
 
 ### Check out what I'm currently working on
 - [mateowoetam/halmaklinuxsupport](https://github.com/mateowoetam/halmaklinuxsupport) - mateowoetam&#39;s fork of [mirrorsonthewall/halmaklinuxsupport](https://github.com/mirrorsonthewall/halmaklinuxsupport) Halmak layout for Linux that now includes an installer script, with future plants to support rpm-ostree.
-- .mateowoetame/tuxelbookgoscrip((httpttps://github.com/mateowoetam/tuxelbookgoscript) - mateowoetam&#39;s recopilation of Pixelbook Linux Drivers - Install Audio Drivers, Keyboard udev Rules, Fixes, and Firmware Updates
+- [mateowoetame/tuxelbookgoscrip](httpttps://github.com/mateowoetam/tuxelbookgoscript) - mateowoetam&#39;s recopilation of Pixelbook Linux Drivers - Install Audio Drivers, Keyboard udev Rules, Fixes, and Firmware Updates
 
 ### Some of my personal config files
 - [mateowoetam/configuration.nix](https://github.com/mateowoetam/configuration.nix)
