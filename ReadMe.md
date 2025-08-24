@@ -1,4 +1,4 @@
-# Mateo Orlaineta 
+# mateowoetam 
 <a href="https://www.github.com/mateowoetam" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/mateowoetam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -12,8 +12,8 @@ GNU/Linux enthusiast<br>NixOS user<br>Minecraft mod enjoyer<br>Steam Deck owner<
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateowoetam&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Check out what I'm currently working on
-- [mateowoetam/halmaklinuxsupport](https://github.com/mateowoetam/halmaklinuxsupport) - Mateo Orlaineta&#39;s fork of [mirrorsonthewall/halmaklinuxsupport](https://github.com/mirrorsonthewall/halmaklinuxsupport) Halmak layout for Linux that now includes an installer script, with future plants to support rpm-ostree.
-- [mateowoetam/tuxelbookgoscript](https://github.com/mateowoetam/tuxelbookgoscript) - Mateo Orlaineta&#39;s recopilation of Pixelbook Linux Drivers - Install Audio Drivers, Keyboard udev Rules, Fixes, and Firmware Updates
+- [mateowoetam/halmaklinuxsupport](https://github.com/mateowoetam/halmaklinuxsupport) - mateowoetam&#39;s fork of [mirrorsonthewall/halmaklinuxsupport](https://github.com/mirrorsonthewall/halmaklinuxsupport) Halmak layout for Linux that now includes an installer script, with future plants to support rpm-ostree.
+- .mateowoetame/tuxelbookgoscrip((httpttps://github.com/mateowoetam/tuxelbookgoscript) - mateowoetam&#39;s recopilation of Pixelbook Linux Drivers - Install Audio Drivers, Keyboard udev Rules, Fixes, and Firmware Updates
 
 ### Some of my personal config files
 - [mateowoetam/configuration.nix](https://github.com/mateowoetam/configuration.nix)
